@@ -1,0 +1,54 @@
+
+    body {
+      font-size: 6pt;
+      font-family: Arial;
+    }
+
+    td {
+      vertical-align: top;
+    }
+
+    .canvas{
+      width: 100%;
+    }
+
+    .wide_input{
+    width: 90%;
+    }
+
+    .canvas_section{
+    border: thin black solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+
+    .sublist{
+      font-style: italic;
+    }
+
+    ul{
+      list-style-type: none;
+      padding: 0px;
+      margin: 0px;
+    }
+
+    h3{
+      text-transform: uppercase;
+      margin-bottom: 0px;
+      font-size: 6pt;
+    }
+
+    ol{
+      padding: 0px;
+      margin: 10px;
+    }
+
+    h4{
+      margin: 0px;
+    }
+
+    p{
+      margin: 0px;
+    }
